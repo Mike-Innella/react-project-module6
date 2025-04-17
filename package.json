@@ -2,6 +2,7 @@
   "name": "react-clone-project",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mike-innella.github.io/react-project-module6/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -23,7 +24,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://Mike-Innella.github.io/react-practice-project-module-6",
   "eslintConfig": {
     "extends": [
       "react-app",
